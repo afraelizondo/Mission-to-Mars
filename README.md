@@ -2,7 +2,7 @@
 
 ## Overview of the project
 
-SpaceForward is an ambitious aerospace company that’s doing research about resource extraction from nearby planets. Current analysis is involved in the information about the climate of Mars and news items about Mars missions. This information can be found on public websites, thanks to this fact, we used  webscraping to collect it by the automation of tasks and process. 
+SpaceForward is an ambitious aerospace company that’s doing research about resource extraction from nearby planets. Current analysis is involved in the information about the climate of Mars and news items about Mars missions. This information can be found on public websites, thanks to this fact, webscraping was used to collect it by the automation of tasks and process. 
 
 ## Tools
 1. Splinter
