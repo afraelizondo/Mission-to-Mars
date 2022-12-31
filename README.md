@@ -2,14 +2,7 @@
 
 ## Overview of the project
 
-Robin was recently hired as a data analyst at SpaceForward (a fictitious company). SpaceForward is an ambitious aerospace company that’s doing research about resource extraction from nearby planets. Robin has been tasked with gathering information about the climate of Mars. She’s also been asked to collect news items about Mars missions. Although some of this information isn’t readily available in either CSV or JavaScript Object Notation (JSON) files or through APIs, it can be found on public websites.
- 
-
-Fortunately, Robin knows of a way to collect and organize web data into a usable database: web scraping.
-
-Enter web scraping. Web scraping automates the tedious tasks of extracting online data for analysis. Instead of a person manually visiting each website, copying the data, and then pasting that data into a file, a web-scraping script automatically performs all those actions and, if necessary, organizes the data for analysis. That is, instead of us manually collecting and formatting the data, web scraping automates the process for us.
-
-Web scraping has a wide range of applications. Worldwide, large companies use web scraping to assess their reputations or to track the online presence of their competitors. People can also use web scraping on a smaller scale for personal projects. For example, web scraping can simplify the process of collecting the current news about a particular subject.
+SpaceForward is an ambitious aerospace company that’s doing research about resource extraction from nearby planets. Current analysis is involved in the information about the climate of Mars and news items about Mars missions. This information can be found on public websites, thanks to this fact, we used  webscraping to collect it by the automation of tasks and process. 
 
 ## Tools
 1. Splinter
